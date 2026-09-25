@@ -5,5 +5,5 @@ git commit -m "added testing files"
 rm testing.py
 git revert --testing.py
 git restore testing.py
-git remote set-url origin https://@github.com
+git remote set-url origin https://@github.com 
 git push origin master
