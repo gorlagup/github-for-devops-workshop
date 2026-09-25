@@ -1,0 +1,14 @@
+ 1276  git log --oneline -- git_commands.txt
+ 1277  pip install git-filter-repo
+ 1278  git filter-repo --path git_commands.txt --invert-paths
+ 1280  git push origin master --force
+ 1281  git rm git_commands.tct
+ 1282  git rm git_commands.txt
+ 1283  git add .
+ 1284  git commit -m "removed file"
+ 1285  git push origin master
+ 1286  git push origin
+ 1287  git push --set-upstream origin master
+ 1288  clear
+ 1290  git push origin master
+ 1291  clear
