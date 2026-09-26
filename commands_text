@@ -12,4 +12,6 @@
  1288  clear
  1290  git push origin master
  1291  clear
-this is new file name
+git checkout -b dev
+git switch dev
+
