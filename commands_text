@@ -15,3 +15,5 @@
 git checkout -b dev
 git switch dev
 
+git fetch - to pull all the branches from remote to local 
+git pull - changes from remote to local if you want to update
